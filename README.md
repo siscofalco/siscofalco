@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sisco Falcó</h1>
-- 🔭 I’m currently working on **Domind
 
 - 🌱 I’m currently learning **React**
 
